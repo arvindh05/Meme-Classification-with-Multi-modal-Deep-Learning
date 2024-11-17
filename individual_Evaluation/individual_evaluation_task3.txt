@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "labels": [
+            "Smears",
+            "Name calling/Labeling"
+        ],
+        "text": "NOW YOU'RE READY TO VOTE FOR HILLARY",
+        "image": "00DjNzR.png"
+    },
+    {
+        "id": "2", 
+        "labels": [
+		 "Smears"
+        ],
+        "text": "Hillary Clinton was a young woman who lived in a closet under some stairs",
+        "image": "0bOKK62.png"
+    },
+    {
+        "id": "3",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "A registered Democrat, Islamic terrorist mass-murders gay people. The Left blames Christians and the NRA. You can’t write this stuff.",
+        "image": "0N5ZKcH.png"
+    },
+    {
+        "id": "4",
+        "labels": [
+            "Causal Oversimplification",
+            "Loaded Language"
+        ],
+        "text": "With the recent rise in popularity of independent wrestling federations, combined with an interconnected fan base via the internet, even the surge in popularity of so called 'mainstream indies' like NXT, it's safe to say we are in the midst of a Renaissance within the sport.",
+        "image": "0SvkQMd.png"
+    },
+    {
+        "id": "5",
+        "labels": [
+            "Smears",
+            "Causal Oversimplification"
+        ],
+        "text": "YOU HAVE BEEN VISITED BY THE GARY JOHNSON OF LIBERTY blessed entrepreneurship and legal weed will come to you but only if you comment 'don't tread on me'",
+        "image": "1DY6I9Q.png"
+    },
+    {
+        "id": "6", 
+        "labels": [
+            "Smears",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "EITHER HILLARY IS INNOCENT OR YOU CAN'T TRUST A REPUBLICAN TO HEAD UP THE FBI GOP SUPPORTERS MIGHT WANT TO SIT THIS ONE OUT.",
+        "image": "2siNIoX.png"
+    },
+    {
+        "id": "7", 
+        "labels": [
+            "Smears",
+            "Appeal to fear/prejudice"
+        ],
+        "text": "TRUMP WANTS TO BE PRESIDENT BUT DOESN'T PAY HIS FUCKING TAXES\nBUT I'M CANADIAN SO IT's REALLY NONE OF MY BUSINESS",
+        "image": "2iaC1qq.png"
+    },
+    {
+        "id": "8",
+        "labels": [
+            "Smears",
+            "Causal Oversimplification"
+        ],
+        "text": "HILLARY BACKS ARMING MUSLIMS\nHILLARY WANTS TO DISARM AMERICANS",
+        "image": "2UT3Ips.png"
+    },
+    {
+        "id": "9",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Smears"
+        ],
+        "text": "APRIL 25th 2016 - HILLARY CLINTON SUPPORTERS POSTED CHILD PORNOGRAPHY TO NUMEROUS BERNIE SANDERS FACEBOOK PAGES, THEN REPORTED THE PAGES TO FACEBOOK. WILL SANDERS SUPPORTERS DO THE SAME THING TO RETALIATE? NEVER IN A MILLION YEARS. IT’S CHILD PORNOGRAPHY. WE WOULD NEVER POST IT, OR VOTE FOR SOMEONE WHO WOULD CONDONE THAT OR DO ANYTHING TO WIN. THAT’S THE DIFFERENCE BETWEEN US. THAT’S WHAT WE ARE FIGHTING FOR.",
+        "image": "5aomAQA.png" 
+    },
+    {
+        "id": "10",
+        "labels": [
+            "Appeal to fear/prejudice"
+        ],
+        "text": "AND THE TRUMP-PENCE WILL SOUND TO SIGNIFY THE BEGINNING OF THE END.",
+        "image": "9CYSG3P.png"
+    }
+]
